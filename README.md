@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is James and I'm a University of Melbourne computer science and data science graduate from Melbourne, Australia with a passion for problem solving and analysis.
+My name is James and I'm a University of Melbourne computer science and data science graduate from Melbourne, Australia with a passion for problem solving and analysis. I believe the most important problem that one is obligated to solve in their life is how to squeeze more juice out of the lemon of life and continue to try to live the most fulfilling life possible.
 
 - 🌱 I’m currently learning full-stack web development (The Odin Project) and deep learning (FastAI)
 - 👯 I’m looking to collaborate on anything and everything.
