@@ -4,5 +4,5 @@ My name is James and I'm a University of Melbourne computer science and data sci
 - 🌱 I’m currently learning full-stack web development (The Odin Project) and deep learning (FastAI)
 - 👯 I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: james.lf.careers@gmail.com
-- ⚡ Fun fact: I love competitive Rocket League (a car soccer eSport ⚽🚙)  and played and (still) coach at the top level
+- ⚡ Fun fact: I enjoy competitive Rocket League (a car soccer eSport ⚽🚙)  and played and (still) coach at the top level
 
